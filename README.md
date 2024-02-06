@@ -12,7 +12,7 @@ Latest release: 1.0.0
 [CLI/deps.edn](https://clojure.org/reference/deps_and_cli) dependency information:
 
 ```
-io.github.dmiller/deps-cljr-test1 {:git/tag "v1.0.0" :git/sha "1234567"}
+io.github.dmiller/deps-cljr-test1 {:git/tag "v1.0.0" :git/sha "9084c83"}
 ```
 
 ## Example usage
